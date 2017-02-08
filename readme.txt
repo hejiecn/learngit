@@ -6,4 +6,8 @@ this is the first term in the github
 its a good time to study
 so happy
 no bug
+<<<<<<< HEAD
 this is the new dev
+=======
+this is the new dev
+>>>>>>> feature1
